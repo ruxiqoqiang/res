@@ -1,2 +1,1 @@
-# res
-Study
+新人git用户 想学习了
